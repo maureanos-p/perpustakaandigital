@@ -13,6 +13,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [PHOTOGRAFER NovDec2026](ebook/PHOTOGRAFER NovDec2026.pdf) – Majalah MATA (2026)
 10. [2026 PETERSBURG](ebook/2026 PETERSBURG.pdf) – Muhammad Abid A Syakur (2026)
 11. [kitab anti bodoh terampil berpikir benar terhindar dari cacat logika](ebook/kitab anti bodoh terampil berpikir benar terhindar dari cacat logika.pdf) – BO Bennett (2015)
-12. Contoh buku lain
+12. [Catatan UGC](ebook/Catatan UGC.pdf) – Maureano (2026)
+13. Contoh buku lain
 ---
 *Powered by GitHub Pages*
